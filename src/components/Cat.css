@@ -1,0 +1,16 @@
+.cat {
+    background: linear-gradient(
+        90deg,
+        orange 0%,
+        red 20%,
+        lightblue 40%,
+        orange 60%,
+        red 80%,
+        lightblue 100%
+    );
+    margin: 10px auto;
+    padding:20px;
+    width: 80vw;
+    border-radius: 1em;
+    font-family: "comic sance MS";
+}

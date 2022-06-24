@@ -1,0 +1,9 @@
+.catList {
+    background-color: rgb(229, 229, 102);
+    color: rgb(69, 69, 69);
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    /* width: fit-content; */
+    /* position: center; */
+}
